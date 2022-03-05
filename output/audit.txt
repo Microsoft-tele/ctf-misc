@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Mar  5 11:18:41 2022
+Invocation: foremost -i Ditf.png 
+Output directory: /home/mss/Desktop/git/ctf-misc/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Ditf.png
+Start: Sat Mar  5 11:18:41 2022
+Length: 5 MB (5610069 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00001933.rar 	       4 MB 	     989714 	 Password Protected:
+1:	00000000.png 	     966 KB 	          0 	  (926 x 1100)
+Finish: Sat Mar  5 11:18:41 2022
+
+2 FILES EXTRACTED
+	
+rar:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Mar  5 11:18:41 2022
